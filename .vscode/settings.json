@@ -6,5 +6,8 @@
     "javascript": false,
     "python": false,
     "typescript": false
+  },
+  "files.associations": {
+    "vector": "cpp"
   }
 }
